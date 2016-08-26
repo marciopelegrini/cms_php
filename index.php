@@ -3,11 +3,11 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>Teste</title>
     </head>
     <body>
         <?php
-        // pu your code here
+			echo "Funciona abestado!";
         ?>
     </body>
 </html>
