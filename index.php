@@ -7,7 +7,12 @@
     </head>
     <body>
         <?php
-			echo "Funciona abestado!";
+        echo "Funciona abestado! <br/>";
+        echo "Teste 2 ";
         ?>
+        <div style="background-color: menu; border: 1px solid red;">
+            <b>Aqui &eacute; outra DIV</b><br/>
+	    <b>Texto qualquer</b>
+        </div>
     </body>
 </html>

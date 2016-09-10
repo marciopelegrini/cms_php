@@ -2,3 +2,6 @@
 .gitignore
 .idea/
 nbproject/private/private.xml
+/README.md
+.buildpath
+.project
