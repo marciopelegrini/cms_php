@@ -12,7 +12,7 @@
         ?>
         <div style="background-color: menu; border: 1px solid red;">
             <b>Aqui &eacute; outra DIV</b><br/>
-	    <b>Texto qualquer</b>
+	    <b>Texto qualquer de novo</b>
         </div>
     </body>
 </html>
