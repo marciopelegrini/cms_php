@@ -7,12 +7,12 @@
     </head>
     <body>
         <?php
-        echo "Funciona abestado! <br/>";
+        echo "Funciona abestado - NO LINUX <br/>";
         echo "Teste 2 ";
         ?>
         <div style="background-color: menu; border: 1px solid red;">
             <b>Aqui &eacute; outra DIV</b><br/>
-	    <b>Texto qualquer de novo</b>
+	    <b>Texto qualquer de novo MAS NO LINUX</b>
         </div>
     </body>
 </html>
