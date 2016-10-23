@@ -7,7 +7,7 @@
     </head>
     <body>
         <?php
-        echo "Funciona abestado! <br/>";
+        echo "Funciona abestado - NO LINUX <br/>";
         echo "Teste 2 ";
         ?>
         <div style="background-color: menu; border: 1px solid blue;">
