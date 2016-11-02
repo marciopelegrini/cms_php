@@ -7,8 +7,8 @@
     </head>
     <body>
         <?php
-        echo "Funciona abestado - NO LINUX <br/>";
-        echo "Teste 2 ";
+        echo "Funciona abestado <br/>";
+        echo "Teste 3 - Bash Ubuntu on Windows 10 ";
         ?>
         <div style="background-color: menu; border: 1px solid blue;">
             <b>Aqui &eacute; outra DIV</b><br/>
